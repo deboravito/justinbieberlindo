@@ -1,0 +1,38 @@
+
+
+body {
+ background-color: azure;
+ color: black;
+ font-family: "bai jamjuree",sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+ margin: 0;
+}
+
+button {      
+    background-color: rgb(216, 250, 215);
+    color: aliceblue;
+font-family: "bai jamjuree,sans-serif
+}
+
+passo{
+display: none;
+
+}
+
+.passo.ativo{
+    display: block;
+
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+     max-width: 90%;
+}
+
